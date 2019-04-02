@@ -1,0 +1,1 @@
+amethyst-email-subscription
