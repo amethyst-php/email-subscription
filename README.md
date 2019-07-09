@@ -1,8 +1,8 @@
 # amethyst-email-subscription
 
-[![Build Status](https://travis-ci.org/railken/amethyst-email-subscription.svg?branch=master)](https://travis-ci.org/railken/amethyst-email-subscription)
+[![Build Status](https://travis-ci.org/amethyst-php/email-subscription.svg?branch=master)](https://travis-ci.org/amethyst-php/email-subscription)
 
-[Amethyst](https://github.com/railken/amethyst) package.
+[Amethyst](https://github.com/amethyst-php/amethyst) package.
 
 # Requirements
 
@@ -13,7 +13,7 @@ PHP 7.1 and later.
 You can install it via [Composer](https://getcomposer.org/) by typing the following command:
 
 ```bash
-composer require railken/amethyst-email-subscription
+composer require amethyst/email-subscription
 ```
 
 The package will automatically register itself.
